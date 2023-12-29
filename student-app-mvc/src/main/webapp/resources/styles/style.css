@@ -1,0 +1,8 @@
+@charset "UTF-8";
+[type="text"]{
+	border:2px solid black;
+}
+
+.cntralgn{
+	text-align: center;
+}
